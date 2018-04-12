@@ -19,5 +19,5 @@ aka memcached:flush -a [appname-space]
 Pull statistics related to a memcached:
 
 ```bash
-aka memcached:stats -a [appname-space]
+aka memcached -a [appname-space]
 ```
